@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 #include <pthread.h>
-#include <time.h>
 //interface strategie
 typedef void* (*converterStrategie)(void *arg);
 //fin
